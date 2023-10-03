@@ -1,0 +1,2 @@
+INFO    2023-10-03 17:50:01,198 [main] testPages.homePageTest  - setup the environment for the test
+INFO    2023-10-03 17:50:05,406 [main] testPages.homePageTest  - nopcommerce home page is launced successfully!

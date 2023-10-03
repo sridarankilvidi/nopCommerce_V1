@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing nopCommerce Apps">
+
+<listeners>
+
+	<listener class-name="extentlisteners.ExtentListeners" />
+
+</listeners>
+    <test name="Regression">
+         <classes>
+             <class name="testPages.homePageTest"/>
+          </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->

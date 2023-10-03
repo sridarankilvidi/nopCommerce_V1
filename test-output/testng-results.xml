@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-03T17:50:01 EDT" name="Testing nopCommerce Apps" finished-at="2023-10-03T17:50:06 EDT" duration-ms="5400">
+    <groups>
+    </groups>
+    <test started-at="2023-10-03T17:50:01 EDT" name="Regression" finished-at="2023-10-03T17:50:06 EDT" duration-ms="5400">
+      <class name="testPages.homePageTest">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:testPages.homePageTest@2f058b8a]" started-at="2023-10-03T17:50:01 EDT" name="setUpTest" finished-at="2023-10-03T17:50:05 EDT" duration-ms="4220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="clickLoginLinkTest()[pri:1, instance:testPages.homePageTest@2f058b8a]" started-at="2023-10-03T17:50:05 EDT" name="clickLoginLinkTest" finished-at="2023-10-03T17:50:06 EDT" duration-ms="1129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoginLinkTest -->
+      </class> <!-- testPages.homePageTest -->
+    </test> <!-- Regression -->
+  </suite> <!-- Testing nopCommerce Apps -->
+</testng-results>
